@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-<table align="center" style="width:100%"><tr>
+<table align="center" width="100%"><tr>
 <td valign="top" width="50%">
 
 ### 开源项目  
