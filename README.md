@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **chenjun1127/chenjun1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 
   
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chenjun1127&show_icons=true&theme=graywhite"/>
 </p>
 
-<p align="center">- ⚒️ Langs: JavaScript & Java $ CSS  </p>  
+<p align="center">- ⚒️ Langs: JavaScript & Java & CSS  </p>  
 <p align="center">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p>  
 
 
 
-<table align="center"><tr>
+<table align="center" style="width:100%"><tr>
 <td valign="top" width="50%">
 
 ### 开源项目  
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
 - [leetcode](https://github.com/xindoo/leetcode) 我的Leetcode题解   
    
-[查看更多](https://github.com/xindoo/)	 
+[查看更多](https://github.com/chenjun1127/)	 
 
 	
 </td>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - [Redis源码剖析之数据过期(expire)](https://xindoo.blog.csdn.net/article/details/113078136)
 - [正则引擎的几种分类](https://xindoo.blog.csdn.net/article/details/112738488)
 
-[查看更多](https://xindoo.blog.csdn.net/)
+[查看更多](https://www.cnblogs.com/jone-chen/)
 
 </td>
 </tr></table>
