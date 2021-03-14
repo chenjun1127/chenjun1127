@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
   
-<p align="center">
+
+
+<p align="left">- ⚒️ Langs: JavaScript & Java & CSS  </p>  
+<p align="left">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p>  
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=chenjun1127&show_icons=true&theme=graywhite"/>
 </p>
-
-<p align="center">- ⚒️ Langs: JavaScript & Java & CSS  </p>  
-<p align="center">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p>  
-
 
 
 <table align="center" width="100%"><tr>
