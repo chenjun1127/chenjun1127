@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <table align="center" width="100%"><tr>
-<td valign="top" width="50%">
+<td >
 
 ### 开源项目  
 - [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 	
 </td>
-<td valign="top" width="50%">
+<td >
 
 ### 我的博客
 - [Redis源码剖析之内存淘汰策略(Evict)](https://xindoo.blog.csdn.net/article/details/114239967)
