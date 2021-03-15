@@ -18,25 +18,15 @@ Here are some ideas to get you started:
 
   
 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=chenjun1127&show_icons=true&theme=graywhite"/>
+</p>
+<p align="center">- ⚒️ Langs: JavaScript & Java & CSS </p> 
+<p align="center">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p> 
 
+* (我的博客)[https://www.cnblogs.com/jone-chen/]
+* (github)[https://github.com/chenjun1127/]
  
-
-
-<table style="margin-left: auto; margin-right: auto;">
-<tr>
-    <td>
-	<!--左侧内容-->
-	    <p>- ⚒️ Langs: JavaScript & Java & CSS </p> 
-	    <p>- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p> 
-    </td>
-    <td>
-	<!--右侧内容-->
-	<p>
-	  <img src="https://github-readme-stats.vercel.app/api?username=chenjun1127&show_icons=true&theme=graywhite"/>
-	</p>
-    </td>
-</tr>
-</table>
  
  
 
