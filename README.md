@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <p align="center">- ⚒️ Langs: JavaScript & Java & CSS </p> 
 <p align="center">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p> 
 
-* (我的博客)[https://www.cnblogs.com/jone-chen/]
-* (我的Github)[https://github.com/chenjun1127/]
+* [我的博客](https://www.cnblogs.com/jone-chen/)
+* [我的Github](https://github.com/chenjun1127/)
  
  
  
