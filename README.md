@@ -20,26 +20,20 @@ Here are some ideas to get you started:
 
 
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenjun1127&show_icons=true&theme=graywhite"/>
-</p>
-<p align="center">- ⚒️ Langs: JavaScript & Java & CSS  </p>  
-<p align="center">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p> 
+
+
 <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
                 <!--左侧内容-->
-                #### 开源项目
-		    * 1
-		    * 2
-		    * 3
+                * - ⚒️ Langs: JavaScript & Java & CSS  
+* - 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p> 
             </td>
             <td>
                 <!--右侧内容-->
-                #### 博客
-		    * 1
-		    * 2
-		    * 3
+                <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chenjun1127&show_icons=true&theme=graywhite"/>
+</p>
             </td>
         </tr>
     </table>
