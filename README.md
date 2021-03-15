@@ -19,36 +19,31 @@ Here are some ideas to get you started:
   
 
 
-<p align="left">- ⚒️ Langs: JavaScript & Java & CSS  </p>  
-<p align="left">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p>  
-<p align="right">
+ 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chenjun1127&show_icons=true&theme=graywhite"/>
 </p>
-
-<div style="display:flex">
-	<div>
-	
-### 开源项目  
-- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
-- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式	
-- [redis](https://github.com/xindoo/redis) Redis中文注解版  
-- [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
-- [leetcode](https://github.com/xindoo/leetcode) 我的Leetcode题解   
-   
-[查看更多](https://github.com/chenjun1127/)	 
-	</div>
-	<div>
-	
-### 我的博客
-- [Redis源码剖析之内存淘汰策略(Evict)](https://xindoo.blog.csdn.net/article/details/114239967)
-- [30行代码实现微信朋友圈自动点赞](https://xindoo.blog.csdn.net/article/details/113791863)
-- [30行代码实现蚂蚁森林自动偷能量](https://xindoo.blog.csdn.net/article/details/113734855)
-- [Redis源码剖析之数据过期(expire)](https://xindoo.blog.csdn.net/article/details/113078136)
-- [正则引擎的几种分类](https://xindoo.blog.csdn.net/article/details/112738488)
-
-[查看更多](https://www.cnblogs.com/jone-chen/)
-	</div>
-</div>
+<p align="center">- ⚒️ Langs: JavaScript & Java & CSS  </p>  
+<p align="center">- 😄 全栈工程师一枚，专注前后端各种技术架构研究...</p> 
+<table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                #### 开源项目
+		    * 1
+		    * 2
+		    * 3
+            </td>
+            <td>
+                <!--右侧内容-->
+                #### 博客
+		    * 1
+		    * 2
+		    * 3
+            </td>
+        </tr>
+    </table>
+ 
  
 
 
